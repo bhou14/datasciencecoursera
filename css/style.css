@@ -1,0 +1,10 @@
+p {
+  background-color: rgba(70, 108, 98, .08);
+  color: rgb(12, 86, 94);
+  font-family: fantasy;
+  font-size: 3.0em;
+}
+
+body {
+    background: linear-gradient(rgb(170, 198, 138), rgb(34, 105, 10));
+}
