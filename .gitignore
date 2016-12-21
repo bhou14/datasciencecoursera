@@ -1,0 +1,22 @@
+# Keep the files/directories listed here out of source control
+
+# webstorm proj
+.idea
+.project
+.settings
+
+**/node_modules
+**/client/public/dist
+**/client/public/build
+**/npm-debug.log
+.npm/*
+**/__coverage__/*
+
+# OS X System Files
+**/.DS_Store
+# Windows System Files
+**/Thumbs.db
+**/tmp/*
+
+# test files
+test.txt

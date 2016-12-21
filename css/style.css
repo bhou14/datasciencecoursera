@@ -5,6 +5,20 @@ p {
   font-size: 3.0em;
 }
 
+div {
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(163, 116, 27);
+}
+
+.blue-bk {
+  background-color: blue;
+}
+
+#myobj {
+  font-size: 10em;
+}
+
 body {
     background: linear-gradient(rgb(170, 198, 138), rgb(34, 105, 10));
 }
